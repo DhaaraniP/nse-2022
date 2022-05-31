@@ -1,4 +1,4 @@
-name: nse-test
+name: nse-nb
 channels:
   - defaults
 dependencies:
@@ -7,4 +7,7 @@ dependencies:
   - jupyterlab
   - numpy
   - plotly
+  - pip
+  - pip:
+    - suntime
 prefix: C:\Users\Cornejo\Miniconda3\envs\nse-test
