@@ -10,4 +10,5 @@ dependencies:
   - pip
   - pip:
     - suntime
+    - simses
 prefix: C:\Users\Cornejo\Miniconda3\envs\nse-test
