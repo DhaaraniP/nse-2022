@@ -1,5 +1,6 @@
 name: nse-nb
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.8
@@ -7,6 +8,8 @@ dependencies:
   - jupyterlab
   - numpy
   - plotly
+  - pyomo
+  - glpk
   - pip
   - pip:
     - suntime
