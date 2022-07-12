@@ -8,6 +8,8 @@ dependencies:
   - jupyterlab
   - numpy
   - plotly
+  - matplotlib
+  - seaborn
   - pyomo
   - glpk
   - pip
